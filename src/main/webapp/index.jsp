@@ -9,7 +9,7 @@
 
 <html>
 <head>
-    <title>GSS Car Rental</title>
+    <title>SKBTLMS</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
@@ -36,14 +36,20 @@
         <table class="table table-bordered table-striped table-hover">
             <thead>
             <tr>
-                <th>Title :</th>
+                <th>Title</th>
                 <th>Publish Year</th>
-                <th>Author :</th>
-                <th>Book Amount :</th>
+                <th>Author</th>
+                <th>Book Amount</th>
                 <th>Availability</th>
                 <th>Status</th>
                 <th>Publisher</th>
                 <th class="text-center">Action</th>
+                <tr>
+                    <td class="text-center">
+                        <a class="btn btn-warning">Edit</a>
+                        <a class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
             </tr>
             </thead>
         </table>
