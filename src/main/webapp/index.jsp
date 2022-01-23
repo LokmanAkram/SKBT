@@ -44,14 +44,17 @@
                 <th>Status</th>
                 <th>Publisher</th>
                 <th class="text-center">Action</th>
-                <tr>
-                    <td class="text-center">
-                        <a class="btn btn-warning">Edit</a>
-                        <a class="btn btn-danger">Delete</a>
-                    </td>
-                </tr>
+
             </tr>
             </thead>
+            <body>
+            <tr>
+                <td class="text-center">
+                    <a class="btn btn-warning">Edit</a>
+                    <a class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+            </body>
         </table>
     </div>
 </div>
