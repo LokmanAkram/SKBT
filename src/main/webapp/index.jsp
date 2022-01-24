@@ -15,7 +15,7 @@
 
 <body>
 <header>
-    <nav class="navbar navbar-expand-md navbar-dark" style="background-color: #4CAF50">
+    <nav class="navbar navbar-expand-md navbar-dark" style="background-color: rebeccapurple">
         <div>
             <a href="index.jsp" class="navbar-brand"> SKBT Library Management System </a>
         </div>
